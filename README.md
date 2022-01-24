@@ -97,5 +97,4 @@ After configuring the anisble from jenkins like above then enable git webhooks t
 
 ## Result
 
-
-
+Now, whenever a commit is made on this git repository the application's image is build and deployed into a docker container automatically.
